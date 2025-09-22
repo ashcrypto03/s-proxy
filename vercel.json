@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/verify/[wallet].js": {
+      "memory": 128,
+      "maxDuration": 10
+    }
+  }
+}
